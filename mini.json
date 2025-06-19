@@ -1,0 +1,2198 @@
+[
+    {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "match",
+        "question": "Match the food item with its primary nutrient.",
+        "options": {
+          "Spinach": ["Iron", "Calcium", "Vitamin A", "Vitamin C"],
+          "Almonds": ["Healthy fats", "Protein", "Fiber", "Vitamin E"],
+          "Yogurt": ["Calcium", "Probiotics", "Protein", "Vitamin D"],
+          "Carrots": ["Vitamin A", "Fiber", "Vitamin K", "Potassium"]
+        },
+        "correct": {
+          "Spinach": "Iron",
+          "Almonds": "Healthy fats",
+          "Yogurt": "Calcium",
+          "Carrots": "Vitamin A"
+        },
+        "explanation": "Each of these foods is a rich source of the corresponding nutrient, essential for various bodily functions."
+      }
+,      
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "multiSelect",
+        "question": "Which of the following are traditional Indian practices that promote healthy eating?",
+        "options": ["Eating with hands", "Using a variety of spices", "Skipping breakfast", "Consuming fermented foods"],
+        "correct": ["Eating with hands", "Using a variety of spices", "Consuming fermented foods"],
+        "explanation": "Traditional practices like eating with hands, using diverse spices, and consuming fermented foods contribute to better digestion and overall health."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "image",
+        "question": "Identify the food item in the image and state its primary health benefit.",
+        "image": "https://images.pexels.com/photos/172073/pexels-photo-172073.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Blueberries - Rich in antioxidants", "Blackberries - High in fiber", "Raspberries - Good source of vitamin C", "Strawberries - Contains folate"],
+        "correct": "Blueberries - Rich in antioxidants",
+        "explanation": "Blueberries are known for their high levels of antioxidants, which support heart health and brain function."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "mcq",
+        "question": "What is the recommended daily intake of fruits and vegetables according to WHO?",
+        "options": ["200 grams", "400 grams", "600 grams", "800 grams"],
+        "correct": "400 grams",
+        "explanation": "WHO recommends at least 400 grams of fruits and vegetables per day to reduce the risk of chronic diseases."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "mcq",
+        "question": "What is the ideal portion size for one meal based on traditional Indian 'thali' practice?",
+        "options": [
+          "Half plate grains, quarter veggies, quarter protein",
+          "Full plate grains",
+          "Only veggies and fruits",
+          "Equal parts rice and meat"
+        ],
+        "correct": "Half plate grains, quarter veggies, quarter protein",
+        "explanation": "Traditional Indian thali encourages balanced nutrition with carbs, vegetables, and proteins proportionately."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "match",
+        "question": "Match the food items with their benefits:",
+        "matchPairs": {
+          "Drumstick leaves": "Rich in iron and boosts immunity",
+          "Ragi (Finger millet)": "Good source of calcium",
+          "Jaggery": "Helps in digestion and is rich in iron",
+          "Amla (Indian gooseberry)": "High in Vitamin C and antioxidant"
+        },
+        "explanation": "These native foods are nutrient-dense and part of many South Indian diets."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "picture",
+        "question": "Identify this food and choose its major health benefit.",
+        "image": "https://media.istockphoto.com/id/1030432870/photo/stack-of-indian-gooseberries.jpg?b=1&s=612x612&w=0&k=20&c=Ww2zPYLi8BI2qPBTdxTidbhCT2rnH4lLhWiShUJZir8=",  
+        "options": [
+          "Improves skin tone",
+          "High in vitamin C",
+          "Boosts hair growth",
+          "Low in calories"
+        ],
+        "correct": "High in vitamin C",
+        "explanation": "Amla is a powerful source of Vitamin C and used in Ayurvedic medicine."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "multiSelect",
+        "question": "Which of the following are benefits of including fiber in your diet?",
+        "options": ["Improved digestion", "Lower cholesterol levels", "Increased blood sugar", "Weight management"],
+        "correct": ["Improved digestion", "Lower cholesterol levels", "Weight management"],
+        "explanation": "Dietary fiber aids in digestion, helps lower cholesterol, and contributes to feeling full, assisting in weight management."
+      },
+    {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "mcq",
+        "question": "Which traditional Indian grain is rich in fiber and nutrients, making it a healthier alternative to refined grains?",
+        "options": ["White rice", "Millets", "Maida", "Polished rice"],
+        "correct": "Millets",
+        "explanation": "Millets are whole grains rich in fiber, vitamins, and minerals, making them a healthier alternative to refined grains."
+      },
+    {
+        "category": "Nutrition",
+        "subcategory": "Dietary Guidelines",
+        "type": "trueFalse",
+        "question": "A balanced diet should include at least 5 servings of fruits and vegetables daily.",
+        "options": ["True", "False"],
+        "correct": "True",
+        "explanation": "Dietary guidelines recommend 5 servings of fruits and vegetables daily to provide essential nutrients and reduce chronic disease risk."
+    },
+
+
+
+
+    {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "multiSelect",
+        "question": "Which of the following are rich sources of Vitamin C?",
+        "options": ["Amla (Indian gooseberry)", "Guava", "Spinach", "Orange"],
+        "correct": ["Amla (Indian gooseberry)", "Guava", "Orange"],
+        "explanation": "Amla, guava, and oranges are excellent sources of Vitamin C, which boosts immunity."
+      },
+    {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "multiple",
+        "question": "Which nutrients are critical for bone health?",
+        "options": ["Calcium", "Vitamin D", "Iron", "Magnesium"],
+        "correct": ["Calcium", "Vitamin D", "Magnesium"],
+        "explanation": "Calcium and Vitamin D are essential for bone strength, while magnesium supports bone formation. Iron is not directly related to bone health."
+    },
+    {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "mcq",
+        "question": "Which vitamin deficiency causes rickets in children?",
+        "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin E"],
+        "correct": "Vitamin D",
+        "explanation": "Vitamin D deficiency leads to rickets, characterized by weak or soft bones in children."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "trueFalse",
+        "question": "Vitamin B12 is naturally found in plant-based foods.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Vitamin B12 is primarily found in animal products; vegetarians may require supplements."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "multiSelect",
+        "question": "Which foods are good sources of iron?",
+        "options": ["Spinach", "Red meat", "Lentils", "Milk"],
+        "correct": ["Spinach", "Red meat", "Lentils"],
+        "explanation": "Spinach, red meat, and lentils are rich in iron"
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Micronutrients",
+        "type": "picture",
+        "question": "What is the primary micronutrient found in this leafy vegetable?",
+        "image": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+        "options": [
+          "Iron",
+          "Vitamin K",
+          "Calcium",
+          "Vitamin B12"
+        ],
+        "correct": "Iron",
+        "explanation": "Spinach is rich in iron, essential for oxygen transport and energy production."
+      },      
+
+
+
+
+      {
+        "category": "Nutrition",
+        "subcategory": "Macronutrients",
+        "type": "trueFalse",
+        "question": "Eating rice at night leads to weight gain.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Weight gain is about total calorie intake. Eating rice at night is fine if portion sizes are balanced. Telangana dishes like curd rice are light and easy to digest."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Macronutrients",
+        "type": "mcq",
+        "question": "Which of the following is a rich source of protein commonly consumed in Telangana?",
+        "options": ["Jowar (Sorghum)", "Toor dal (Pigeon peas)", "Tamarind", "Rice"],
+        "correct": "Toor dal (Pigeon peas)",
+        "explanation": "Toor dal is a staple in Telangana cuisine and is a significant source of plant-based protein."
+      }
+,{
+    "category": "Nutrition",
+    "subcategory": "Macronutrients",
+    "type": "match",
+    "question": "Match the local food items with their primary macronutrient.",
+    "options": {
+      "Rice": ["Carbohydrates", "Proteins", "Fats"],
+      "Groundnuts": ["Fats", "Carbohydrates", "Proteins"],
+      "Eggs": ["Proteins", "Fats", "Carbohydrates"],
+      "Jowar (Sorghum)": ["Carbohydrates", "Proteins", "Fats"]
+    },
+    "correct": {
+      "Rice": "Carbohydrates",
+      "Groundnuts": "Fats",
+      "Eggs": "Proteins",
+      "Jowar (Sorghum)": "Carbohydrates"
+    },
+    "explanation": "Each of these foods is rich in the specified macronutrient, contributing to a balanced diet."
+  }
+,{
+    "category": "Nutrition",
+    "subcategory": "Macronutrients",
+    "type": "multiSelect",
+    "question": "Select the foods that are good sources of healthy fats.",
+    "options": ["Sesame seeds", "Coconut oil", "Green leafy vegetables", "Sunflower oil"],
+    "correct": ["Sesame seeds", "Coconut oil", "Sunflower oil"],
+    "explanation": "Sesame seeds and oils like coconut and sunflower are rich in healthy fats commonly used in Telangana cooking."
+  }
+,{
+    "category": "Nutrition",
+    "subcategory": "Macronutrients",
+    "type": "trueFalse",
+    "question": "Fats should be completely avoided in a healthy diet.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Healthy fats are essential for the body and are present in foods like nuts and oils used in Telangana cuisine."
+  }
+,
+{
+    "category": "Nutrition",
+    "subcategory": "Macronutrients",
+    "type": "image",
+    "question": "Identify the food item in the image and its primary macronutrient.",
+    "image": "https://images.pexels.com/photos/30107827/pexels-photo-30107827/free-photo-of-rustic-bowl-of-whole-peanuts-on-burlap.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "options": ["Groundnuts - Fats", "Rice - Carbohydrates", "Toor dal - Proteins", "Spinach - Proteins"],
+    "correct": "Groundnuts - Fats",
+    "explanation": "Groundnuts are high in healthy fats and are commonly used in Telangana"
+}
+   
+,  
+{
+    "category": "Nutrition",
+    "subcategory": "Macronutrients",
+    "type": "multiSelect",
+    "question": "Which of the following statements about protein are TRUE?",
+    "options": [
+      "Only non-vegetarians get enough protein",
+      "Dal, rajma, and chana are good protein sources",
+      "Vegetarians in India can meet protein needs with a balanced diet",
+      "Protein is only needed by bodybuilders"
+    ],
+    "correct": [
+      "Dal, rajma, and chana are good protein sources",
+      "Vegetarians in India can meet protein needs with a balanced diet"
+    ],
+    "explanation": "Plant-based foods like dals and legumes are great protein sources, busting the myth that only meat provides enough protein."
+  },
+
+
+
+
+
+
+
+
+    {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "mcq",
+        "question": "What is the recommended daily water intake for an average adult?",
+        "options": ["1 liter", "2 liters", "3 liters", "4 liters"],
+        "correct": "2 liters",
+        "explanation": "About 2 liters of water daily is recommended for adults, though needs vary based on activity and climate."
+    },
+    {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "multiSelect",
+        "question": "Which of these are signs of dehydration?",
+        "options": ["Dry mouth", "Fatigue", "Headaches", "Frequent urination"],
+        "correct": ["Dry mouth", "Fatigue", "Headaches"],
+        "explanation": "Dehydration can cause dry mouth, fatigue, and headaches. Frequent urination is a sign of over-hydration."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "trueFalse",
+        "question": "Sugary drinks like sodas are effective in keeping you hydrated.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Sugary drinks can actually dehydrate the body, as they increase urination and lower hydration levels."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "mcq",
+        "question": "Which of these traditional drinks is best for hydration during summer?",
+        "options": ["Sugarcane juice with ice", "Buttermilk with salt and spices", "Sweetened lassi with heavy cream", "Cold soda with sugar syrup"],
+        "correct": "Buttermilk with salt and spices",
+        "explanation": "Buttermilk, a common Telangana drink, is excellent for hydration as it contains water, electrolytes like sodium, and probiotics, unlike sugary drinks that can dehydrate you further."
+    },
+    {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "trueFalse",
+        "question": "Cold water is harmful and should be avoided in hot summers.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Cold water is safe and refreshing during heat, as long as it's not consumed excessively or immediately after intense heat exposure."
+      },
+      {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "mcq",
+        "question": "Which traditional ingredient is often used to prepare natural body coolants?",
+        "options": ["Sabja seeds (Basil seeds)", "Mustard seeds", "Ajwain", "Black pepper"],
+        "correct": "Sabja seeds (Basil seeds)",
+        "explanation": "Sabja seeds are soaked in water to make cooling drinks that aid digestion and hydration."
+      },
+    {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "multiSelect",
+        "question": "What are signs of dehydration in children during summer?",
+        "options": [
+          "Dry lips and mouth",
+          "Frequent urination",
+          "Fatigue and dizziness",
+          "Sunken eyes"
+        ],
+        "correct": ["Dry lips and mouth", "Fatigue and dizziness", "Sunken eyes"],
+        "explanation": "Dehydration in children can be dangerous. Recognizing signs early helps in preventing heat stroke."
+      }, {
+        "category": "Nutrition",
+        "subcategory": "Hydration",
+        "type": "mcq",
+        "question": "How much water should a moderately active adult in ideally drink during summer?",
+        "options": ["1-2 litres", "2-3 litres", "3-4 litres", "4-5 litres"],
+        "correct": "3-4 litres",
+        "explanation": "Due to heat and humidity, staying hydrated with 3-4 litres daily is generally recommended."
+      },
+   
+
+
+
+      {
+        "category": "Mental Health",
+        "subcategory": "Stress Management",
+        "type": "trueFalse",
+        "question": "For students, drinking more chai during exams reduces stress effectively.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Chai contains caffeine, which can increase anxiety and disrupt sleep, worsening stress for students. Better methods include deep breathing or short breaks."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Stress Management",
+        "type": "mcq",
+        "question": "Which technique is most effective for immediate stress relief?",
+        "options": ["Deep Breathing", "Watching TV", "Caffeine Intake", "Social Media"],
+        "correct": "Deep Breathing",
+        "explanation": "Deep breathing activates the parasympathetic nervous system, reducing stress quickly."
+    },{
+        "category": "Mental Health",
+        "subcategory": "Stress Management",
+        "type": "match",
+        "question": "Match the stress myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Stress is always bad", "right": "Some stress can motivate you"},
+            {"left": "Only medicine helps", "right": "Exercise reduces stress"},
+            {"left": "Talking doesn’t help", "right": "Sharing feelings relieves stress"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Moderate stress can drive action, exercise like walking lowers stress, and talking to loved ones can ease emotional burden in Telangana families."
+    },{
+        "category": "Mental Health",
+        "subcategory": "Stress Management",
+        "type": "matching",
+        "question": "Match the stress symptoms with their appropriate coping strategies.",
+        "pairs": {
+          "Headache": "Practice relaxation techniques",
+          "Irritability": "Engage in physical activity",
+          "Sleep disturbances": "Maintain a consistent sleep schedule",
+          "Lack of concentration": "Break tasks into smaller steps"
+        },
+        "explanation": "Each coping strategy addresses specific stress symptoms effectively."
+      }, {
+        "category": "Mental Health",
+        "subcategory": "Stress Management",
+        "type": "multiSelect",
+        "question": "Which activities can help seniors manage stress during festival preparations like Bathukamma?",
+        "options": ["Listening to calming music", "Overworking without breaks", "Meditating for 10 minutes", "Arguing with family"],
+        "correct": ["Listening to calming music", "Meditating for 10 minutes"],
+        "explanation": "Calming music and meditation reduce stress hormones, while overworking and arguing increase stress, especially for seniors during busy festivals."
+    },
+
+
+
+
+
+
+
+    {
+        "category": "Mental Health",
+        "subcategory": "Anxiety",
+        "type": "trueFalse",
+        "question": "Anxiety is always a sign of a serious mental illness.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Anxiety can be a normal response to stress and doesn't always indicate a mental illness."
+      },
+
+    {
+        "category": "Mental Health",
+        "subcategory": "Anxiety",
+        "type": "multiple",
+        "question": "Which are common symptoms of anxiety?",
+        "options": ["Racing Heart", "Fatigue", "Euphoria", "Restlessness"],
+        "correct": ["Racing Heart", "Fatigue", "Restlessness"],
+        "explanation": "Anxiety symptoms include physical and psychological signs like racing heart, fatigue, and restlessness. Euphoria is not typical."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Anxiety",
+        "type": "mcq",
+        "question": "Which practices can help manage anxiety?",
+        "options": ["Mindfulness meditation", "Avoiding social interactions", "Regular exercise", "Excessive caffeine intake"],
+        "correct": ["Mindfulness meditation", "Regular exercise"],
+        "explanation": "Mindfulness and exercise are beneficial, while social avoidance and excessive caffeine can worsen anxiety."
+      },{
+        "category": "Mental Health",
+        "subcategory": "Anxiety",
+        "type": "matching",
+        "question": "Match the anxiety symptoms with suitable coping mechanisms.",
+        "pairs": {
+          "Rapid heartbeat": "Deep breathing exercises",
+          "Restlessness": "Engage in physical activity",
+          "Excessive worry": "Cognitive behavioral therapy",
+          "Sleep disturbances": "Establish a bedtime routine"
+        },
+        "explanation": "Each coping mechanism targets specific anxiety symptoms effectively."
+      },{
+        "category": "Mental Health",
+        "subcategory": "Anxiety",
+        "type": "match",
+        "question": "Match the anxiety myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Anxiety is just overthinking", "right": "It’s a medical condition"},
+            {"left": "Kids don’t get anxious", "right": "Children can feel anxiety too"},
+            {"left": "Prayer cures all anxiety", "right": "Therapy may also be needed"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Anxiety is a clinical condition, children in Telangana can feel it, and while prayer helps, therapy is often necessary for managing it."
+    },
+
+
+
+
+
+
+    {
+        "category": "Mental Health",
+        "subcategory": "Depression",
+        "type": "trueFalse",
+        "question": "Depression in seniors is just a normal part of aging.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Depression is not a normal part of aging. It’s a treatable condition, and Telangana seniors may need support like counseling or social engagement."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Depression",
+        "type": "multiSelect",
+        "question": "Which are signs of depression instudents during exam season?",
+        "options": ["Loss of interest in studies", "Excessive energy", "Feeling hopeless", "Sleeping too much"],
+        "correct": ["Loss of interest in studies", "Feeling hopeless", "Sleeping too much"],
+        "explanation": "Depression can cause disinterest, hopelessness, and oversleeping in students, while excessive energy is not a typical symptom."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Depression",
+        "type": "trueFalse",
+        "question": "Depression can only be treated with medication.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Depression can be treated with therapy, lifestyle changes, or medication, depending on severity."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Depression",
+        "type": "trueFalse",
+        "question": "Depression is just feeling sad and will go away on its own.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Depression is a medical condition that often requires treatment and support."
+      },{
+        "category": "Mental Health",
+        "subcategory": "Depression",
+        "type": "picture",
+        "question": "This Telangana activity is thought to cure depression. Is it enough?",
+        "image": "https://images.pexels.com/photos/31581083/pexels-photo-31581083/free-photo-of-traditional-nepali-ritual-with-floral-offerings.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+        "options": [
+            "Prayer - Not enough alone",
+            "Prayer - Completely cures",
+            "Cooking - Not enough",
+            "Dancing - Completely cures"
+        ],
+        "correct": "Prayer - Not enough alone",
+        "explanation": "Prayer provides comfort but isn’t enough for depression; professional help like therapy is often needed in Telangana."
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "category": "Mental Health",
+        "subcategory": "Mindfulness",
+        "type": "match",
+        "question": "Match the mindfulness practice to its benefit:",
+        "pairs": [
+            {"left": "Meditation", "right": "Improved Focus"},
+            {"left": "Gratitude Journaling", "right": "Enhanced Mood"},
+            {"left": "Body Scan", "right": "Stress Reduction"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Meditation improves focus, gratitude journaling boosts mood, and body scans reduce stress."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Mindfulness",
+        "type": "mcq",
+        "question": "What is a key component of mindfulness?",
+        "options": ["Multitasking", "Non-Judgmental Awareness", "Goal Setting", "Time Management"],
+        "correct": "Non-Judgmental Awareness",
+        "explanation": "Mindfulness involves observing thoughts and feelings without judgment, fostering calm."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Mindfulness",
+        "type": "trueFalse",
+        "question": "Mindfulness involves focusing on the present moment without judgment.",
+        "options": ["True", "False"],
+        "correct": "True",
+        "explanation": "Mindfulness is the practice of being aware and accepting of the present moment."
+      },
+    
+      {
+        "category": "Mental Health",
+        "subcategory": "Mindfulness",
+        "type": "picture",
+        "question": "This Telangana activity can be done mindfully. How?",
+        "image": "https://media.istockphoto.com/id/1468553370/photo/high-angle-view-of-beautiful-indian-women-in-saris-decorating-rangoli-with-oil-lamps.jpg?b=1&s=612x612&w=0&k=20&c=iWJ4-jeE28avS9JTFG1scyCQrWggZIn0RFrsQRp_uZc=",
+        "options": [
+            "Making rangoli - Focus on patterns",
+            "Making rangoli - Rush through it",
+            "Cooking - Ignore the process",
+            "Dancing - Multitask"
+        ],
+        "correct": "Making rangoli - Focus on patterns",
+        "explanation": "Making rangoli mindfully by focusing on patterns helps Telangana people stay present and reduce stress during festivals like Diwali."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Mindfulness",
+        "type": "trueFalse",
+        "question": "For  students, mindfulness requires sitting still for hours.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Mindfulness can be as simple as a 5-minute breathing exercise, which helps students stay calm without needing long sessions."
+    },
+
+
+
+
+
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "trueFalse",
+        "question": "For seniors, memory loss is always due to aging and can’t be prevented.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Memory loss isn’t always due to aging; activities like puzzles and social interaction can help maintain cognitive health in Telangana seniors."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "mcq",
+        "question": "What’s a good cognitive activity for  children to improve memory?",
+        "options": ["Watching TV all day", "Playing memory games", "Skipping school", "Eating only sweets"],
+        "correct": "Playing memory games",
+        "explanation": "Memory games stimulate the brain and improve cognitive skills in children, unlike passive TV watching or poor diet choices."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "multiSelect",
+        "question": "Which activities support cognitive health for IT professionals?",
+        "options": ["Learning a new skill", "Excessive screen time", "Solving puzzles", "Social interaction"],
+        "correct": ["Learning a new skill", "Solving puzzles", "Social interaction"],
+        "explanation": "Learning, puzzles, and social interaction boost cognitive health, while excessive screen time can harm focus and memory."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "match",
+        "question": "Match the cognitive health myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Only kids need brain games", "right": "Adults benefit too"},
+            {"left": "Sleep doesn’t affect memory", "right": "Sleep improves memory"},
+            {"left": "Stress has no impact", "right": "Stress harms cognition"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Brain games help all ages, sleep consolidates memory, and stress negatively affects cognitive health in Telangana people."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "trueFalse",
+        "question": "For farmers, physical work alone keeps the brain healthy.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Physical work helps, but cognitive health also needs mental stimulation like puzzles or learning, especially for farmers in Telangana."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "mcq",
+        "question": "What can a woman do to boost cognitive health while managing a household?",
+        "options": ["Avoiding social interaction", "Learning a new recipe", "Multitasking all day", "Skipping meals"],
+        "correct": "Learning a new recipe",
+        "explanation": "Learning a new recipe stimulates the brain, while multitasking or isolation can harm cognitive health."
+    },
+    {
+        "category": "Mental Health",
+        "subcategory": "Cognitive Health",
+        "type": "multiSelect",
+        "question": "Which foods support cognitive health for young adults?",
+        "options": ["Nuts like almonds", "Sugary snacks", "Leafy greens like gongura", "Fried foods"],
+        "correct": ["Nuts like almonds", "Leafy greens like gongura"],
+        "explanation": "Almonds and gongura provide healthy fats and vitamins for brain health, while sugary and fried foods can impair cognition."
+    },
+
+
+
+
+
+    {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "trueFalse",
+        "question": "For children, lifting heavy weights builds strength quickly without risk.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Heavy weights can harm growing bones in children. Bodyweight exercises like push-ups are safer for building strength in Telangana kids."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "mcq",
+        "question": "What’s the best strength training exercise for a young adult starting out?",
+        "options": ["Bench press with heavy weights", "Bodyweight squats", "Running long distances", "Skipping warm-ups"],
+        "correct": "Bodyweight squats",
+        "explanation": "Bodyweight squats build strength safely for beginners, unlike heavy bench presses or skipping warm-ups, which can cause injury."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "mcq",
+        "question": "What is the recommended rest period between strength training sets?",
+        "options": ["10 seconds", "30-90 seconds", "3 minutes", "5 minutes"],
+        "correct": "30-90 seconds",
+        "explanation": "A 30-90 second rest allows muscle recovery without losing workout intensity."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "multiSelect",
+        "question": "Which precautions should teens take during strength training?",
+        "options": ["Warm up before", "Lift beyond capacity", "Use proper form", "Skip hydration"],
+        "correct": ["Warm up before", "Use proper form"],
+        "explanation": "Warming up and proper form prevent injuries, while over-lifting or skipping hydration can harm teens during training."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "trueFalse",
+        "question": "Lifting heavy weights will make women bulky.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Women have lower testosterone levels, making it difficult to gain bulky muscles through strength training."
+      },
+      {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "pictureBased",
+        "question": "Identify the exercise shown in the image.",
+        "image": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Deadlift", "Squat", "Bench Press", "Lunge"],
+        "correct": "Deadlift",
+        "explanation": "The image depicts a deadlift, a compound movement targeting multiple muscle groups."
+      },
+      {
+        "category": "Fitness",
+        "subcategory": "Strength Training",
+        "type": "matching",
+        "question": "Match the exercise with the primary muscle group it targets.",
+        "pairs": {
+          "Bench Press": "Chest",
+          "Squat": "Legs",
+          "Deadlift": "Back",
+          "Shoulder Press": "Shoulders"
+        },
+        "explanation": "Each exercise primarily targets the corresponding muscle group."
+      },
+
+
+
+
+
+
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "trueFalse",
+            "question": "For children, running every day without rest improves cardio health quickly.",
+            "options": ["True", "False"],
+            "correct": "False",
+            "explanation": "Overtraining without rest can strain young hearts. Moderate cardio like skipping games is better for children in Telangana."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "mcq",
+            "question": "What’s the best cardio activity for a young adult in a busy schedule?",
+            "options": ["Long marathon runs", "Brisk walking for 30 minutes", "Lifting weights", "Sitting all day"],
+            "correct": "Brisk walking for 30 minutes",
+            "explanation": "Brisk walking fits busy schedules and boosts heart health, unlike marathons or inactivity, which are impractical for young adults."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "multiSelect",
+            "question": "Which cardio benefits can seniors gain from morning walks?",
+            "options": ["Improved heart health", "Increased muscle mass", "Better stamina", "Joint pain"],
+            "correct": ["Improved heart health", "Better stamina"],
+            "explanation": "Morning walks enhance heart health and stamina, while muscle mass needs strength training, and joint pain can be managed with care."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "match",
+            "question": "Match the cardio myth with the fact that busts it:",
+            "pairs": [
+                {"left": "Cardio is only running", "right": "Cycling is cardio too"},
+                {"left": "It always causes weight loss", "right": "Diet affects weight too"},
+                {"left": "No need to warm up", "right": "Warm-ups prevent injury"}
+            ],
+            "correct": "All pairs",
+            "explanation": "Cycling is cardio, weight loss depends on diet, and warm-ups are crucial to avoid injuries during cardio in Telangana."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "picture",
+            "question": "This activity is common in villages. Is it good cardio?",
+            "image": "https://www.pexels.com/photo/people-cycling-in-a-village-456789/",
+            "options": [
+                "Cycling - Good cardio",
+                "Cycling - Poor cardio",
+                "Running - Poor cardio",
+                "Walking - Poor cardio"
+            ],
+            "correct": "Cycling - Good cardio",
+            "explanation": "Cycling in Telangana villages is an excellent cardio exercise, improving heart health and stamina."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "trueFalse",
+            "question": "For farmers, cardio exercises are unnecessary if they work hard daily.",
+            "options": ["True", "False"],
+            "correct": "False",
+            "explanation": "Hard work helps, but structured cardio like walking improves heart health beyond daily labor for farmers."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "mcq",
+            "question": "What’s a suitable cardio option for a middle-aged woman with knee pain?",
+            "options": ["Jumping jacks", "Swimming", "Heavy running", "Skipping rope"],
+            "correct": "Swimming",
+            "explanation": "Swimming is gentle on knees and provides effective cardio, unlike jumping or running, which can worsen pain."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Cardio",
+            "type": "multiSelect",
+            "question": "Which factors should teens consider for safe cardio training?",
+            "options": ["Hydration", "Overexertion", "Proper footwear", "Ignoring warm-ups"],
+            "correct": ["Hydration", "Proper footwear"],
+            "explanation": "Hydration and proper footwear prevent issues, while overexertion and skipping warm-ups can harm teens during cardio."
+        },
+    {
+        "category": "Fitness",
+        "subcategory": "Cardio",
+        "type": "trueFalse",
+        "question": "High-Intensity Interval Training (HIIT) is more effective for fat loss than steady-state cardio.",
+        "options": ["True", "False"],
+        "correct": "True",
+        "explanation": "HIIT burns more calories in less time and increases metabolism post-workout."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Cardio",
+        "type": "picture",
+        "question": "Which activity is a form of cardio exercise?",
+        "image": "https://images.pexels.com/photos/248547/pexels-photo-248547.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Weightlifting", "Cycling", "Yoga", "Stretching"],
+        "correct": "Cycling",
+        "explanation": "Cycling elevates heart rate and improves cardiovascular endurance, unlike weightlifting or yoga."
+    },
+
+
+
+
+
+
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "trueFalse",
+            "question": "For children, stretching before play prevents all injuries.",
+            "options": ["True", "False"],
+            "correct": "False",
+            "explanation": "Stretching helps, but proper warm-ups and technique are also needed to prevent injuries during play for children in Telangana."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "mcq",
+            "question": "What’s the best flexibility exercise for a young adult with a desk job?",
+            "options": ["Heavy lifting", "Cat-cow stretch", "Long runs", "Skipping"],
+            "correct": "Cat-cow stretch",
+            "explanation": "Cat-cow stretch improves flexibility and relieves back stiffness from sitting, unlike heavy lifting or running."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "multiSelect",
+            "question": "Which flexibility benefits can seniors gain from daily yoga?",
+            "options": ["Improved range of motion", "Increased muscle bulk", "Better balance", "Joint stiffness"],
+            "correct": ["Improved range of motion", "Better balance"],
+            "explanation": "Yoga enhances range of motion and balance, while muscle bulk needs strength training, and stiffness can be reduced with care."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "match",
+            "question": "Match the flexibility myth with the fact that busts it:",
+            "pairs": [
+                {"left": "Flexibility is only for dancers", "right": "Everyone benefits"},
+                {"left": "Stretching hurts", "right": "Gentle stretching helps"},
+                {"left": "No need after 50", "right": "It’s vital at all ages"}
+            ],
+            "correct": "All pairs",
+            "explanation": "Flexibility benefits all, gentle stretching avoids pain, and it’s essential for Telangana people, including those over 50."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "picture",
+            "question": "This activity can improve flexibility. How?",
+            "image": "https://images.pexels.com/photos/4056723/pexels-photo-4056723.jpeg?auto=compress&cs=tinysrgb&w=600",
+            "options": [
+                "Yoga - Increases flexibility",
+                "Yoga - Reduces flexibility",
+                "Running - Increases flexibility",
+                "Lifting - Increases flexibility"
+            ],
+            "correct": "Yoga - Increases flexibility",
+            "explanation": "Yoga stretches muscles and joints, improving flexibility for Telangana people practicing in open fields."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "trueFalse",
+            "question": "For farmers, flexibility exercises are unnecessary if they bend daily.",
+            "options": ["True", "False"],
+            "correct": "False",
+            "explanation": "Daily bending helps, but structured flexibility exercises prevent stiffness and injury for farmers in Telangana."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "mcq",
+            "question": "What’s a good flexibility practice for a middle-aged man with back pain?",
+            "options": ["Heavy squats", "Seated forward bend", "Jumping jacks", "Weightlifting"],
+            "correct": "Seated forward bend",
+            "explanation": "Seated forward bend gently stretches the back, aiding flexibility and reducing pain, unlike heavy exercises."
+        },
+        {
+            "category": "Fitness",
+            "subcategory": "Flexibility",
+            "type": "multiSelect",
+            "question": "Which precautions should teens take during flexibility training?",
+            "options": ["Avoid bouncing", "Stretch beyond limits", "Warm up first", "Hold stretches long"],
+            "correct": ["Avoid bouncing", "Warm up first", "Hold stretches long"],
+            "explanation": "Avoiding bounce, warming up, and holding stretches safely prevent injuries during flexibility training for teens."
+        },
+
+
+
+
+
+
+
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "trueFalse",
+        "question": "For children, skipping rest after play speeds up recovery.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Rest is essential for muscle recovery in children after play. Overdoing it can cause strain in Telangana’s active kids."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "mcq",
+        "question": "What’s the best recovery method for a young adult after a workout?",
+        "options": ["Drinking alcohol", "Active stretching", "Skipping meals", "Sleeping less"],
+        "correct": "Active stretching",
+        "explanation": "Active stretching improves blood flow and recovery, unlike alcohol or skipping meals, which hinder healing."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "multiSelect",
+        "question": "Which recovery practices benefit seniors after morning exercises?",
+        "options": ["Adequate hydration", "Overexertion", "Gentle yoga", "Ignoring soreness"],
+        "correct": ["Adequate hydration", "Gentle yoga"],
+        "explanation": "Hydration and gentle yoga aid recovery, while overexertion and ignoring soreness can harm seniors’ health."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "match",
+        "question": "Match the Telangana myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Pain means no recovery", "right": "Mild soreness is normal"},
+            {"left": "Rest is a waste", "right": "Rest heals muscles"},
+            {"left": "Only young recover", "right": "All ages recover with care"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Mild soreness is normal, rest is crucial, and all ages, including Telangana seniors, recover with proper care."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "trueFalse",
+        "question": "For farmers, working through soreness speeds up recovery.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Working through soreness delays recovery. Rest and stretching are better for farmers in Telangana."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "mcq",
+        "question": "What’s a good recovery food for a middle-aged man after exercise?",
+        "options": ["Fried bajji", "Banana with milk", "Sugary soda", "Heavy biryani"],
+        "correct": "Banana with milk",
+        "explanation": "Banana with milk provides potassium and protein for recovery, unlike fried or sugary foods that hinder it."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "multiSelect",
+        "question": "Which recovery techniques should teens use after sports?",
+        "options": ["Cool-down stretches", "Ignoring hydration", "Adequate sleep", "Overtraining"],
+        "correct": ["Cool-down stretches", "Adequate sleep"],
+        "explanation": "Stretches and sleep aid recovery, while ignoring hydration or overtraining can harm teens’ health."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "multiple",
+        "question": "Which practices aid workout recovery?",
+        "options": ["Adequate Sleep", "Hydration", "Overtraining", "Active Recovery"],
+        "correct": ["Adequate Sleep", "Hydration", "Active Recovery"],
+        "explanation": "Sleep, hydration, and active recovery promote muscle repair, while overtraining hinders it."
+    },
+    {
+        "category": "Fitness",
+        "subcategory": "Recovery",
+        "type": "picture",
+        "question": "Which practice supports post-workout recovery?",
+        "image": "https://example.com/recovery.jpg",
+        "options": ["Skipping Meals", "Foam Rolling", "Dehydration", "Prolonged Sitting"],
+        "correct": "Foam Rolling",
+        "explanation": "Foam rolling reduces muscle soreness and improves blood flow, aiding recovery."
+    },
+
+
+
+
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "mcq",
+        "question": "What is considered normal blood pressure for adults?",
+        "options": ["140/90 mmHg", "120/80 mmHg", "160/100 mmHg", "100/60 mmHg"],
+        "correct": "120/80 mmHg",
+        "explanation": "120/80 mmHg is normal, balancing heart health and organ perfusion."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "multiple",
+        "question": "Which foods can help lower LDL cholesterol?",
+        "options": ["Oats", "Red Meat", "Avocados", "Butter"],
+        "correct": ["Oats", "Avocados"],
+        "explanation": "Oats contain soluble fiber, and avocados have healthy fats that reduce LDL cholesterol."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "match",
+        "question": "Match the cholesterol type to its role:",
+        "pairs": [
+            {"left": "LDL", "right": "Bad Cholesterol"},
+            {"left": "HDL", "right": "Good Cholesterol"},
+            {"left": "Triglycerides", "right": "Stored Fat"}
+        ],
+        "correct": "All pairs",
+        "explanation": "LDL clogs arteries, HDL clears cholesterol, and triglycerides store energy."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "mcq",
+        "question": "What is the average resting heart rate for adults?",
+        "options": ["40-60 bpm", "60-100 bpm", "100-120 bpm", "120-140 bpm"],
+        "correct": "60-100 bpm",
+        "explanation": "A resting heart rate of 60-100 bpm is normal for healthy adults."
+    },
+    
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "picture",
+        "question": "Which food supports vascular health?",
+        "image": "https://images.pexels.com/photos/3296279/pexels-photo-3296279.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Fried Chicken", "Salmon", "Ice Cream", "White Bread"],
+        "correct": "Salmon",
+        "explanation": "Salmon’s omega-3 fatty acids reduce inflammation and improve vascular function."
+    },{
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "trueFalse",
+        "question": "For children, high blood pressure is always a serious concern.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "High blood pressure in children can sometimes be temporary due to activity or anxiety, but persistent cases need medical attention."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "mcq",
+        "question": "What’s the best way for a young adult to manage slightly high blood pressure?",
+        "options": ["Increasing salt intake", "Reducing stress with meditation", "Skipping exercise", "Eating more fried food"],
+        "correct": "Reducing stress with meditation",
+        "explanation": "Meditation lowers stress, which can reduce blood pressure, unlike high salt or inactivity."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "multiSelect",
+        "question": "Which lifestyle changes can help seniors maintain healthy blood pressure?",
+        "options": ["Regular walking", "Excessive alcohol", "Low-sodium diet", "Smoking"],
+        "correct": ["Regular walking", "Low-sodium diet"],
+        "explanation": "Walking and a low-sodium diet support blood pressure, while alcohol and smoking raise it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "match",
+        "question": "Match the blood pressure myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Only older people get it", "right": "Young people can too"},
+            {"left": "Salt is the only cause", "right": "Stress and weight matter too"},
+            {"left": "It always has symptoms", "right": "It can be silent"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Blood pressure affects all ages, has multiple causes, and can be asymptomatic."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, checking blood pressure only once a year is sufficient.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Regular checks are needed as blood pressure can change, especially with age or lifestyle shifts."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "mcq",
+        "question": "What food can help a person reduce high blood pressure?",
+        "options": ["Processed snacks", "Bananas", "Red meat", "Sweets"],
+        "correct": "Bananas",
+        "explanation": "Bananas are rich in potassium, which helps lower blood pressure, unlike processed or high-fat foods."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "multiSelect",
+        "question": "Which factors can increase blood pressure in young adults?",
+        "options": ["Chronic stress", "Regular exercise", "High caffeine intake", "Healthy diet"],
+        "correct": ["Chronic stress", "High caffeine intake"],
+        "explanation": "Stress and caffeine can raise blood pressure, while exercise and a healthy diet help control it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Blood Pressure",
+        "type": "match",
+        "question": "Match the blood pressure management tip with its benefit:",
+        "pairs": [
+            {"left": "Weight loss", "right": "Reduces strain on heart"},
+            {"left": "Meditation", "right": "Lowers stress levels"},
+            {"left": "Limited salt", "right": "Decreases fluid retention"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Weight loss, meditation, and reduced salt each contribute to better blood pressure control."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "trueFalse",
+        "question": "For children, high cholesterol is not a concern until adulthood.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "High cholesterol can start early due to diet or genetics, requiring monitoring even in children."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "mcq",
+        "question": "What’s the best way for a young adult to lower high cholesterol?",
+        "options": ["Eating more butter", "Increasing fiber intake", "Avoiding exercise", "Smoking"],
+        "correct": "Increasing fiber intake",
+        "explanation": "Fiber, found in oats and vegetables, lowers cholesterol, unlike butter or smoking."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "multiSelect",
+        "question": "Which foods can help seniors reduce bad cholesterol levels?",
+        "options": ["Fried snacks", "Nuts like almonds", "Oats", "Red meat"],
+        "correct": ["Nuts like almonds", "Oats"],
+        "explanation": "Almonds and oats contain healthy fats and fiber that lower bad cholesterol, unlike fried foods or red meat."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "match",
+        "question": "Match the cholesterol myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Only diet affects it", "right": "Exercise helps too"},
+            {"left": "High cholesterol is always bad", "right": "Some is needed for health"},
+            {"left": "Young people are immune", "right": "It can affect all ages"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Exercise lowers cholesterol, some cholesterol is essential, and it can affect all age groups."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, cholesterol levels don’t change with age.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Cholesterol levels often rise with age due to metabolism changes, needing regular checks."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "mcq",
+        "question": "What activity can help a person maintain healthy cholesterol levels?",
+        "options": ["Sedentary lifestyle", "Brisk walking", "Eating fast food", "Smoking"],
+        "correct": "Brisk walking",
+        "explanation": "Brisk walking raises good cholesterol and lowers bad, unlike inactivity or smoking."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "multiSelect",
+        "question": "Which habits can increase cholesterol levels in young adults?",
+        "options": ["Regular exercise", "High-fat diet", "Smoking", "Healthy sleep"],
+        "correct": ["High-fat diet", "Smoking"],
+        "explanation": "High-fat diets and smoking raise cholesterol, while exercise and sleep help control it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Cholesterol",
+        "type": "match",
+        "question": "Match the cholesterol management tip with its effect:",
+        "pairs": [
+            {"left": "Eat more fish", "right": "Increases good cholesterol"},
+            {"left": "Reduce saturated fats", "right": "Lowers bad cholesterol"},
+            {"left": "Quit smoking", "right": "Improves heart health"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Fish, reduced fats, and quitting smoking all positively impact cholesterol and heart health."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "trueFalse",
+        "question": "For children, a high heart rate after play is always dangerous.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "A high heart rate after play is normal as it returns to normal with rest, but persistent issues need a check."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "mcq",
+        "question": "What’s the best way for a young adult to monitor heart rate during exercise?",
+        "options": ["Ignoring it", "Using a fitness tracker", "Guessing by feeling", "Stopping abruptly"],
+        "correct": "Using a fitness tracker",
+        "explanation": "A fitness tracker provides accurate heart rate data, unlike guessing or ignoring it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "multiSelect",
+        "question": "Which factors can elevate heart rate in seniors during daily activities?",
+        "options": ["Dehydration", "Gentle walking", "Stress", "Adequate rest"],
+        "correct": ["Dehydration", "Stress"],
+        "explanation": "Dehydration and stress raise heart rate, while walking and rest typically maintain it unless overdone."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "match",
+        "question": "Match the heart rate myth with the fact that busts it:",
+        "pairs": [
+            {"left": "High heart rate is always bad", "right": "It can be normal during exercise"},
+            {"left": "Only athletes monitor it", "right": "Everyone should check it"},
+            {"left": "It doesn’t vary by age", "right": "It changes with age"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Exercise raises heart rate normally, all should monitor it, and it varies by age."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, a resting heart rate over 100 is always a problem.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "A resting heart rate over 100 (tachycardia) may need checking, but it can be temporary due to stress or fitness level."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "mcq",
+        "question": "What can help a person lower an elevated heart rate after stress?",
+        "options": ["Deep breathing", "Caffeine intake", "Running more", "Heavy lifting"],
+        "correct": "Deep breathing",
+        "explanation": "Deep breathing calms the nervous system and lowers heart rate, unlike caffeine or intense exercise."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "multiSelect",
+        "question": "Which activities can help young adults maintain a healthy heart rate?",
+        "options": ["Regular cardio", "Smoking", "Adequate sleep", "High stress"],
+        "correct": ["Regular cardio", "Adequate sleep"],
+        "explanation": "Cardio and sleep support a healthy heart rate, while smoking and stress elevate it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Heart Rate",
+        "type": "match",
+        "question": "Match the heart rate management tip with its benefit:",
+        "pairs": [
+            {"left": "Stay hydrated", "right": "Prevents rapid increases"},
+            {"left": "Avoid caffeine", "right": "Reduces stimulation"},
+            {"left": "Exercise regularly", "right": "Strengthens heart"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Hydration, less caffeine, and exercise all contribute to a stable and healthy heart rate."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "trueFalse",
+        "question": "For children, poor vascular health is not a concern until later in life.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Unhealthy habits like poor diet can affect vascular health early, needing attention even in children."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "mcq",
+        "question": "What’s the best way for a young adult to improve vascular health?",
+        "options": ["Smoking regularly", "Eating fruits and vegetables", "Avoiding exercise", "High salt diet"],
+        "correct": "Eating fruits and vegetables",
+        "explanation": "Fruits and vegetables improve blood vessel function, unlike smoking or high salt intake."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "multiSelect",
+        "question": "Which habits can help seniors maintain good vascular health?",
+        "options": ["Quitting smoking", "Sedentary lifestyle", "Healthy diet", "Excess alcohol"],
+        "correct": ["Quitting smoking", "Healthy diet"],
+        "explanation": "Quitting smoking and a healthy diet support vascular health, while inactivity and alcohol harm it."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "match",
+        "question": "Match the vascular health myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Only old age affects it", "right": "Young people can impact it"},
+            {"left": "Exercise harms vessels", "right": "It strengthens them"},
+            {"left": "Diet doesn’t matter", "right": "Healthy eating helps"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Vascular health starts young, exercise strengthens vessels, and diet plays a key role."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, vascular health cannot be improved once declined.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Lifestyle changes like exercise and diet can improve vascular health at any age."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "mcq",
+        "question": "What activity can enhance vascular health in a person?",
+        "options": ["Watching TV", "Swimming", "Eating junk food", "Smoking"],
+        "correct": "Swimming",
+        "explanation": "Swimming improves blood flow and vessel health, unlike inactivity or smoking."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "multiSelect",
+        "question": "Which factors can damage vascular health in young adults?",
+        "options": ["Regular exercise", "High stress", "Smoking", "Balanced diet"],
+        "correct": ["High stress", "Smoking"],
+        "explanation": "Stress and smoking harm vessels, while exercise and diet support vascular health."
+    },
+    {
+        "category": "Cardiovascular Health",
+        "subcategory": "Vascular Health",
+        "type": "match",
+        "question": "Match the vascular health tip with its benefit:",
+        "pairs": [
+            {"left": "Reduce sugar", "right": "Prevents vessel damage"},
+            {"left": "Stay active", "right": "Improves blood flow"},
+            {"left": "Manage weight", "right": "Reduces pressure on vessels"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Lowering sugar, staying active, and managing weight all enhance vascular health."
+    },
+
+
+
+
+
+
+    
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "mcq",
+        "question": "What is the recommended room temperature for sleep?",
+        "options": ["60-67°F", "70-75°F", "75-80°F", "80-85°F"],
+        "correct": "60-67°F",
+        "explanation": "A cooler room (60-67°F) supports the body’s natural temperature drop during sleep."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "trueFalse",
+        "question": "Cognitive Behavioral Therapy can treat insomnia.",
+        "options": ["True", "False"],
+        "correct": "True",
+        "explanation": "CBT for insomnia addresses thoughts and behaviors that disrupt sleep, improving outcomes."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "multiple",
+        "question": "Which factors contribute to insomnia?",
+        "options": ["Stress", "Caffeine", "Exercise", "Irregular Sleep Schedule"],
+        "correct": ["Stress", "Caffeine", "Irregular Sleep Schedule"],
+        "explanation": "Stress, caffeine, and irregular schedules disrupt sleep, while exercise can improve it."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "match",
+        "question": "Match the sleep disorder to its symptom:",
+        "pairs": [
+            {"left": "Sleep Apnea", "right": "Loud Snoring"},
+            {"left": "Narcolepsy", "right": "Sudden Sleep Attacks"},
+            {"left": "Insomnia", "right": "Difficulty Falling Asleep"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Sleep apnea involves snoring, narcolepsy causes sleep attacks, and insomnia hinders sleep onset."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "trueFalse",
+        "question": "For children, watching TV before bed improves sleep quality.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Watching TV stimulates the brain with blue light, disrupting sleep. A calm routine like reading helps children sleep better."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "mcq",
+        "question": "What’s the best practice for a young adult to improve sleep hygiene?",
+        "options": ["Drinking coffee before bed", "Setting a consistent bedtime", "Using the phone in bed", "Eating a heavy meal at night"],
+        "correct": "Setting a consistent bedtime",
+        "explanation": "A consistent bedtime regulates the sleep cycle, unlike caffeine, phone use, or heavy meals, which disrupt sleep."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "multiSelect",
+        "question": "Which habits can seniors adopt to enhance sleep hygiene?",
+        "options": ["Avoiding naps during the day", "Keeping a dark bedroom", "Drinking alcohol before bed", "Exercising late at night"],
+        "correct": ["Keeping a dark bedroom", "Avoiding naps during the day"],
+        "explanation": "A dark room and limited naps improve sleep, while alcohol and late exercise can interfere with rest."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "match",
+        "question": "Match the sleep hygiene myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Exercise anytime improves sleep", "right": "Exercise should be earlier"},
+            {"left": "A noisy room is fine", "right": "Quiet rooms aid sleep"},
+            {"left": "Eating late helps", "right": "Light snacks are better"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Early exercise, quiet rooms, and light snacks promote better sleep, debunking common myths."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, sleeping with pets in bed boosts sleep quality.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Pets can cause disturbances, reducing sleep quality. A pet-free bed often improves rest for adults."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "mcq",
+        "question": "What’s a good sleep hygiene practice for a farmer after a long day?",
+        "options": ["Taking a warm bath", "Drinking energy drinks", "Working late", "Using bright lights"],
+        "correct": "Taking a warm bath",
+        "explanation": "A warm bath relaxes muscles and signals sleep time, unlike stimulants or bright lights that hinder rest."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "multiSelect",
+        "question": "Which factors should teens avoid to maintain sleep hygiene?",
+        "options": ["Late-night gaming", "Caffeine in the evening", "Regular sleep schedule", "Screen time before bed"],
+        "correct": ["Late-night gaming", "Caffeine in the evening", "Screen time before bed"],
+        "explanation": "Gaming, caffeine, and screens disrupt sleep, while a regular schedule supports healthy sleep for teens."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Hygiene",
+        "type": "match",
+        "question": "Match the sleep hygiene practice with its benefit:",
+        "pairs": [
+            {"left": "Avoiding screens", "right": "Reduces blue light exposure"},
+            {"left": "Consistent wake-up", "right": "Regulates body clock"},
+            {"left": "Comfortable mattress", "right": "Improves sleep comfort"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Avoiding screens, consistent wake-ups, and a good mattress enhance sleep quality across all ages."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "trueFalse",
+        "question": "Insomnia in children is just a phase and doesn’t need attention.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Persistent insomnia in children can affect growth and needs evaluation, not just waiting it out."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "mcq",
+        "question": "What’s a helpful strategy for a young adult with insomnia?",
+        "options": ["Taking sleeping pills daily", "Establishing a bedtime routine", "Drinking alcohol", "Staying in bed longer"],
+        "correct": "Establishing a bedtime routine",
+        "explanation": "A routine regulates sleep, unlike pills, alcohol, or staying in bed, which can worsen insomnia."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "multiSelect",
+        "question": "Which factors can contribute to insomnia in seniors?",
+        "options": ["Chronic pain", "Regular exercise", "Stress", "Healthy diet"],
+        "correct": ["Chronic pain", "Stress"],
+        "explanation": "Pain and stress disrupt sleep, while exercise and diet support it, affecting seniors’ insomnia."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "match",
+        "question": "Match the insomnia myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Insomnia is incurable", "right": "Lifestyle changes help"},
+            {"left": "Only older people get it", "right": "All ages can have it"},
+            {"left": "Sleeping more cures it", "right": "Quality sleep matters"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Lifestyle changes aid insomnia, all ages are affected, and quality sleep, not just quantity, is key."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, insomnia is always caused by stress.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Insomnia can stem from diet, medications, or health issues, not just stress, in adults."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "mcq",
+        "question": "What can a farmer do to reduce insomnia after a tiring day?",
+        "options": ["Working late", "Relaxing with deep breathing", "Drinking coffee", "Eating a heavy dinner"],
+        "correct": "Relaxing with deep breathing",
+        "explanation": "Deep breathing calms the mind, aiding sleep, unlike late work or stimulants that worsen insomnia."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "multiSelect",
+        "question": "Which practices can teens use to manage insomnia?",
+        "options": ["Limiting screen time", "Drinking energy drinks", "Meditation", "Irregular sleep times"],
+        "correct": ["Limiting screen time", "Meditation"],
+        "explanation": "Reducing screen time and meditating help manage insomnia, while energy drinks and irregular sleep disrupt it."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Insomnia",
+        "type": "match",
+        "question": "Match the insomnia trigger with its solution:",
+        "pairs": [
+            {"left": "Caffeine", "right": "Switch to herbal tea"},
+            {"left": "Overthinking", "right": "Journaling thoughts"},
+            {"left": "Noise", "right": "Using earplugs"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Herbal tea, journaling, and earplugs address caffeine, overthinking, and noise, improving sleep."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "trueFalse",
+        "question": "Sleep disorders in children are always outgrown without treatment.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Untreated sleep disorders can affect development, requiring medical attention in children."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "mcq",
+        "question": "What’s a sign that a young adult should seek help for a sleep disorder?",
+        "options": ["Feeling refreshed daily", "Excessive daytime sleepiness", "Regular sleep schedule", "No snoring"],
+        "correct": "Excessive daytime sleepiness",
+        "explanation": "Daytime sleepiness indicates a possible sleep disorder, unlike feeling refreshed or regular sleep."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "multiSelect",
+        "question": "Which symptoms might indicate a sleep disorder in seniors?",
+        "options": ["Loud snoring", "Increased energy", "Gasping during sleep", "Normal sleep patterns"],
+        "correct": ["Loud snoring", "Gasping during sleep"],
+        "explanation": "Snoring and gasping suggest disorders like sleep apnea, while energy and normal patterns do not."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "match",
+        "question": "Match the sleep disorder myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Snoring is harmless", "right": "It can signal apnea"},
+            {"left": "Only adults have disorders", "right": "Kids can too"},
+            {"left": "Exercise cures all", "right": "Medical help is needed"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Snoring can indicate apnea, kids are affected, and medical intervention is often required for disorders."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, sleep disorders are always linked to aging.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Sleep disorders can result from stress, diet, or medical conditions, not just aging in adults."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "mcq",
+        "question": "What should a farmer do if suspecting a sleep disorder?",
+        "options": ["Ignore it", "Consult a doctor", "Increase workload", "Take more naps"],
+        "correct": "Consult a doctor",
+        "explanation": "A doctor can diagnose and treat sleep disorders, unlike ignoring or overworking, which worsen them."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "multiSelect",
+        "question": "Which habits might worsen sleep disorders in teens?",
+        "options": ["Irregular sleep", "Healthy diet", "Excessive caffeine", "Physical activity"],
+        "correct": ["Irregular sleep", "Excessive caffeine"],
+        "explanation": "Irregular sleep and caffeine disrupt sleep patterns, while diet and activity support healthy sleep."
+    },
+    {
+        "category": "Sleep Health",
+        "subcategory": "Sleep Disorders",
+        "type": "match",
+        "question": "Match the sleep disorder symptom with its possible cause:",
+        "pairs": [
+            {"left": "Restless legs", "right": "Iron deficiency"},
+            {"left": "Sudden awakenings", "right": "Sleep apnea"},
+            {"left": "Daytime fatigue", "right": "Insomnia"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Restless legs may link to iron issues, awakenings to apnea, and fatigue to insomnia, guiding treatment."
+    },
+   
+
+
+
+
+
+
+
+    {
+        "category": "Preventive Care",
+        "subcategory": "Vaccinations",
+        "type": "mcq",
+        "question": "Which vaccine is recommended annually for adults?",
+        "options": ["MMR", "Flu", "Hepatitis B", "Tetanus"],
+        "correct": "Flu",
+        "explanation": "The flu vaccine is recommended yearly due to evolving virus strains."
+    },
+    {
+        "category": "Preventive Care",
+        "subcategory": "Lifestyle Factors",
+        "type": "picture",
+        "question": "Which lifestyle choice reduces disease risk?",
+        "image": "https://images.pexels.com/photos/4473622/pexels-photo-4473622.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Smoking", "Regular Exercise", "High Sugar Diet", "Sedentary Behavior"],
+        "correct": "Regular Exercise",
+        "explanation": "Exercise reduces risks of heart disease, diabetes, and cancer, unlike smoking or sedentary behavior."
+    },
+    {
+        "category": "Preventive Care",
+        "subcategory": "Lifestyle Factors",
+        "type": "match",
+        "question": "Match the lifestyle factor to its preventive benefit:",
+        "pairs": [
+            {"left": "Exercise", "right": "Heart Health"},
+            {"left": "Balanced Diet", "right": "Weight Management"},
+            {"left": "No Smoking", "right": "Lung Health"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Exercise supports heart health, diet aids weight control, and avoiding smoking protects lungs."
+    },
+    {
+        "category": "Preventive Care",
+        "subcategory": "Injury Prevention",
+        "type": "trueFalse",
+        "question": "Wearing seatbelts reduces the risk of fatal injuries in car accidents.",
+        "options": ["True", "False"],
+        "correct": "True",
+        "explanation": "Seatbelts significantly reduce the risk of death and serious injury in crashes."
+    },
+    {
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "trueFalse",
+    "question": "For children, vaccines are unnecessary if they eat a healthy diet.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Vaccines protect against diseases like measles, regardless of diet, and are essential for children’s immunity."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "mcq",
+    "question": "What’s the best age to start vaccinations for a young adult traveling abroad?",
+    "options": ["Before 6 months", "Before travel", "After travel", "Never needed"],
+    "correct": "Before travel",
+    "explanation": "Vaccinations like hepatitis should be taken before travel to ensure protection, not after or never."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "multiSelect",
+    "question": "Which factors should seniors consider before getting vaccinated?",
+    "options": ["Consulting a doctor", "Ignoring medical history", "Checking vaccine schedule", "Skipping boosters"],
+    "correct": ["Consulting a doctor", "Checking vaccine schedule"],
+    "explanation": "Doctor consultation and schedule checks ensure safe vaccination, while ignoring history or skipping boosters risks health."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "match",
+    "question": "Match the vaccination myth with the fact that busts it:",
+    "pairs": [
+        {"left": "Vaccines cause autism", "right": "No evidence supports this"},
+        {"left": "One dose is enough", "right": "Boosters are often needed"},
+        {"left": "Natural immunity is better", "right": "Vaccines are safer"}
+    ],
+    "correct": "All pairs",
+    "explanation": "Vaccines don’t cause autism, boosters are necessary, and they offer safer immunity than natural exposure."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "trueFalse",
+    "question": "For middle-aged adults, annual flu shots are a waste of time.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Flu shots reduce severity and spread, making them valuable for adults’ health annually."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Vaccinations",
+    "type": "mcq",
+    "question": "What should a farmer do to stay updated on vaccinations?",
+    "options": ["Rely on rumors", "Visit a local clinic", "Ignore health campaigns", "Self-diagnose"],
+    "correct": "Visit a local clinic",
+    "explanation": "Clinics provide accurate vaccination updates, unlike rumors or self-diagnosis, which can mislead."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "trueFalse",
+    "question": "For children, regular health screenings are unnecessary if they seem healthy.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Screenings can detect issues like vision problems early, even in healthy children."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "mcq",
+    "question": "What’s the recommended screening for a young adult to check heart health?",
+    "options": ["Blood sugar test", "ECG", "Eye exam", "Bone density"],
+    "correct": "ECG",
+    "explanation": "An ECG assesses heart health, making it suitable for young adults, unlike other tests."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "multiSelect",
+    "question": "Which screenings should seniors prioritize for preventive care?",
+    "options": ["Blood pressure", "Dental check-up", "Cholesterol levels", "Skipping all tests"],
+    "correct": ["Blood pressure", "Cholesterol levels"],
+    "explanation": "Blood pressure and cholesterol screenings prevent heart issues, while dental checks are secondary, and skipping is risky."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "match",
+    "question": "Match the screening myth with the fact that busts it:",
+    "pairs": [
+        {"left": "Screenings are only for sick people", "right": "They prevent issues"},
+        {"left": "Too frequent is harmful", "right": "Follow doctor advice"},
+        {"left": "No need after 60", "right": "Lifelong screening helps"}
+    ],
+    "correct": "All pairs",
+    "explanation": "Screenings prevent disease, frequency depends on advice, and they benefit all ages, including over 60."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "trueFalse",
+    "question": "For middle-aged adults, cancer screenings are only needed if symptoms appear.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Early cancer detection through screenings is key, even without symptoms, for adults."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Screenings",
+    "type": "mcq",
+    "question": "What screening should a farmer consider for long-term health?",
+    "options": ["Hair analysis", "Blood glucose test", "Nail check", "Skin test"],
+    "correct": "Blood glucose test",
+    "explanation": "Blood glucose tests detect diabetes risk, relevant for farmers’ health, unlike cosmetic checks."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "trueFalse",
+    "question": "For children, a sedentary lifestyle has no impact on health.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Sedentary habits increase obesity and heart risks, making activity crucial for children."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "mcq",
+    "question": "What’s a key lifestyle change for a young adult to prevent disease?",
+    "options": ["Smoking regularly", "Eating more vegetables", "Skipping exercise", "Drinking sugary drinks"],
+    "correct": "Eating more vegetables",
+    "explanation": "Vegetables reduce disease risk, unlike smoking or poor habits, which increase it."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "multiSelect",
+    "question": "Which lifestyle factors can seniors adjust to improve health?",
+    "options": ["Reducing salt intake", "Increasing screen time", "Regular walks", "Smoking more"],
+    "correct": ["Reducing salt intake", "Regular walks"],
+    "explanation": "Lower salt and walks prevent heart issues, while screen time and smoking harm health."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "match",
+    "question": "Match the lifestyle myth with the fact that busts it:",
+    "pairs": [
+        {"left": "Exercise is enough", "right": "Diet matters too"},
+        {"left": "Stress is harmless", "right": "It affects health"},
+        {"left": "Sleep is optional", "right": "It prevents disease"}
+    ],
+    "correct": "All pairs",
+    "explanation": "Diet, stress management, and sleep are vital alongside exercise for disease prevention."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "trueFalse",
+    "question": "For middle-aged adults, a high-sugar diet prevents fatigue.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "High sugar causes energy crashes, while balanced meals prevent fatigue in adults."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Lifestyle Factors",
+    "type": "mcq",
+    "question": "What lifestyle habit should a farmer adopt to reduce health risks?",
+    "options": ["Smoking breaks", "Drinking water regularly", "Skipping meals", "Overworking"],
+    "correct": "Drinking water regularly",
+    "explanation": "Hydration prevents dehydration-related issues, unlike smoking or overworking, which increase risks."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "trueFalse",
+    "question": "For children, playing without supervision prevents all injuries.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Supervision ensures safety, reducing injury risks during play for children."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "mcq",
+    "question": "What’s the best way for a young adult to prevent sports injuries?",
+    "options": ["Warming up", "Skipping stretches", "Playing without rest", "Ignoring equipment"],
+    "correct": "Warming up",
+    "explanation": "Warming up prepares muscles, reducing injury risk, unlike skipping stretches or rest."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "multiSelect",
+    "question": "Which precautions can seniors take to prevent falls?",
+    "options": ["Using handrails", "Wearing loose shoes", "Removing clutter", "Rushing while walking"],
+    "correct": ["Using handrails", "Removing clutter"],
+    "explanation": "Handrails and decluttered spaces prevent falls, while loose shoes or rushing increase risks."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "match",
+    "question": "Match the injury prevention myth with the fact that busts it:",
+    "pairs": [
+        {"left": "Stretching prevents all injuries", "right": "Warm-ups are key too"},
+        {"left": "Kids are injury-proof", "right": "They need protection"},
+        {"left": "Rest isn’t needed", "right": "Rest prevents overuse"}
+    ],
+    "correct": "All pairs",
+    "explanation": "Warm-ups, protection, and rest are essential, debunking myths about stretching or kids’ resilience."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "trueFalse",
+    "question": "For middle-aged adults, lifting heavy objects without help prevents back injuries.",
+    "options": ["True", "False"],
+    "correct": "False",
+    "explanation": "Proper lifting techniques or help prevent back injuries, not solo heavy lifting."
+},
+{
+    "category": "Preventive Care",
+    "subcategory": "Injury Prevention",
+    "type": "mcq",
+    "question": "What should a farmer do to prevent work-related injuries?",
+    "options": ["Using dull tools", "Wearing protective gear", "Working in poor light", "Ignoring safety rules"],
+    "correct": "Wearing protective gear",
+    "explanation": "Protective gear reduces injury risk, unlike dull tools or poor conditions, which increase hazards."
+},
+
+
+
+
+
+
+
+
+
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "mcq",
+        "question": "What is a common test for monitoring diabetes?",
+        "options": ["ECG", "HbA1c", "MRI", "Colonoscopy"],
+        "correct": "HbA1c",
+        "explanation": "HbA1c measures average blood sugar over 2-3 months, guiding diabetes management."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "multiple",
+        "question": "Which lifestyle changes help manage hypertension?",
+        "options": ["Low-Sodium Diet", "Regular Exercise", "High Alcohol Intake", "Stress Reduction"],
+        "correct": ["Low-Sodium Diet", "Regular Exercise", "Stress Reduction"],
+        "explanation": "Low sodium, exercise, and stress reduction lower blood pressure; high alcohol worsens it."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "picture",
+        "question": "Which food helps manage hypertension?",
+        "image": "https://images.pexels.com/photos/2325843/pexels-photo-2325843.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "options": ["Potato Chips", "Spinach", "Bacon", "Candy"],
+        "correct": "Spinach",
+        "explanation": "Spinach is rich in potassium and low in sodium, helping regulate blood pressure."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "match",
+        "question": "Match the asthma trigger to its management:",
+        "pairs": [
+            {"left": "Allergens", "right": "Air Purifier"},
+            {"left": "Exercise", "right": "Pre-Medication"},
+            {"left": "Cold Air", "right": "Scarf or Mask"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Air purifiers reduce allergens, pre-medication prevents exercise-induced asthma, and scarves warm cold air."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "mcq",
+        "question": "What is the primary function of a rescue inhaler?",
+        "options": ["Long-Term Control", "Immediate Symptom Relief", "Infection Prevention", "Lung Capacity Increase"],
+        "correct": "Immediate Symptom Relief",
+        "explanation": "Rescue inhalers provide quick relief by relaxing airway muscles during asthma attacks."
+    },{
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "trueFalse",
+        "question": "For children, eating sweets occasionally causes diabetes.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Diabetes is linked to genetics and lifestyle, not occasional sweets, but moderation is key for children."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "mcq",
+        "question": "What’s a key dietary change for a young adult to manage diabetes?",
+        "options": ["Increasing sugary drinks", "Reducing refined carbs", "Skipping meals", "Eating more fried food"],
+        "correct": "Reducing refined carbs",
+        "explanation": "Lowering refined carbs helps control blood sugar, unlike sugary drinks or fried foods."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "multiSelect",
+        "question": "Which habits can seniors adopt to prevent diabetes complications?",
+        "options": ["Regular exercise", "Ignoring blood sugar", "Healthy diet", "Smoking"],
+        "correct": ["Regular exercise", "Healthy diet"],
+        "explanation": "Exercise and diet manage diabetes, while ignoring sugar or smoking worsen complications."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "match",
+        "question": "Match the diabetes myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Diabetes is curable", "right": "It’s manageable"},
+            {"left": "Only overweight get it", "right": "Thin people can too"},
+            {"left": "Sugar causes it", "right": "Lifestyle is a factor"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Diabetes is managed, not cured; affects all body types, and lifestyle, not just sugar, contributes."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, diabetes always shows obvious symptoms.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Diabetes can be asymptomatic, requiring regular checks for early detection in adults."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Diabetes",
+        "type": "mcq",
+        "question": "What should a farmer do to monitor diabetes risk?",
+        "options": ["Avoid doctor visits", "Check blood sugar regularly", "Increase sugar intake", "Ignore family history"],
+        "correct": "Check blood sugar regularly",
+        "explanation": "Regular checks detect diabetes early, unlike avoidance or increased sugar, which raise risks."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "trueFalse",
+        "question": "For children, high blood pressure is not a concern.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "High blood pressure can affect children, often linked to obesity, requiring monitoring."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "mcq",
+        "question": "What’s a key lifestyle change for a young adult to control hypertension?",
+        "options": ["Reducing salt intake", "Increasing stress", "Skipping exercise", "Eating fast food daily"],
+        "correct": "Reducing salt intake",
+        "explanation": "Lowering salt lowers blood pressure, unlike stress or fast food, which worsen hypertension."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "multiSelect",
+        "question": "Which habits can seniors adopt to manage hypertension?",
+        "options": ["Regular monitoring", "High sodium diet", "Relaxation techniques", "Smoking"],
+        "correct": ["Regular monitoring", "Relaxation techniques"],
+        "explanation": "Monitoring and relaxation reduce hypertension, while sodium and smoking increase it."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "match",
+        "question": "Match the hypertension myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Only old people get it", "right": "Young can too"},
+            {"left": "Stress always causes it", "right": "Diet affects it too"},
+            {"left": "No symptoms mean no risk", "right": "Silent hypertension exists"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Hypertension affects all ages, diet matters, and it can be silent, needing regular checks."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, hypertension is always linked to obesity.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Hypertension can result from genetics or stress, not just obesity, in adults."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Hypertension",
+        "type": "mcq",
+        "question": "What should a farmer do to reduce hypertension risk?",
+        "options": ["Increase workload", "Practice deep breathing", "Eat salty snacks", "Avoid rest"],
+        "correct": "Practice deep breathing",
+        "explanation": "Deep breathing lowers stress and blood pressure, unlike overwork or salt, which raise risks."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "trueFalse",
+        "question": "For children, asthma can be outgrown without treatment.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Asthma requires management, as it can persist or worsen without proper care in children."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "mcq",
+        "question": "What’s a key action for a young adult to manage asthma during exercise?",
+        "options": ["Using an inhaler before", "Ignoring symptoms", "Running in polluted areas", "Skipping warm-ups"],
+        "correct": "Using an inhaler before",
+        "explanation": "An inhaler prevents attacks, unlike ignoring symptoms or exercising in pollution, which trigger asthma."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "multiSelect",
+        "question": "Which triggers should seniors avoid to control asthma?",
+        "options": ["Dust mites", "Fresh air", "Strong perfumes", "Moderate exercise"],
+        "correct": ["Dust mites", "Strong perfumes"],
+        "explanation": "Dust and perfumes trigger asthma, while fresh air and exercise, if moderate, help manage it."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "match",
+        "question": "Match the asthma myth with the fact that busts it:",
+        "pairs": [
+            {"left": "Asthma is contagious", "right": "It’s a chronic condition"},
+            {"left": "Exercise always worsens it", "right": "Controlled exercise helps"},
+            {"left": "Cold air cures it", "right": "Cold air can trigger it"}
+        ],
+        "correct": "All pairs",
+        "explanation": "Asthma isn’t contagious, controlled exercise benefits, and cold air can worsen it, not cure it."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "trueFalse",
+        "question": "For middle-aged adults, asthma only affects the lungs.",
+        "options": ["True", "False"],
+        "correct": "False",
+        "explanation": "Asthma impacts overall health, including energy levels, not just lungs, in adults."
+    },
+    {
+        "category": "Chronic Conditions",
+        "subcategory": "Asthma",
+        "type": "mcq",
+        "question": "What should a farmer do to manage asthma in dusty conditions?",
+        "options": ["Work without a mask", "Use a dust mask", "Increase exposure", "Ignore triggers"],
+        "correct": "Use a dust mask",
+        "explanation": "A dust mask reduces exposure, preventing asthma attacks, unlike working unprotected."
+    }
+
+]
